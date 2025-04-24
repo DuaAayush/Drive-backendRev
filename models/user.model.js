@@ -28,3 +28,5 @@ const userSchema=new mongoose.Schema({
 const user=mongoose.model('user',userSchema);
 
 module.exports=user;
+//hello commit
+//commiting again as made some minor changes
